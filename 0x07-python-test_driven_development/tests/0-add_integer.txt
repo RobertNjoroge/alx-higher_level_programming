@@ -34,7 +34,7 @@ Note that floats are casted to ints before addition is performed.
 ::
 
     >>> add_integer(2.9, 0.2)
-    2
+    3
 
 ::
 
